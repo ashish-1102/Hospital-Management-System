@@ -1,48 +1,70 @@
-# HOSPITAL MANAGEMENT SYSTEM
+# Getting Started with Create React App
 
-This is a Hospital Management System built using the MERN Stack (MongoDB, Express, React, Node.js). It is a web-based application that allows hospital staff to manage patient records, appointments, and billing information.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- User authentication and authorization
-- User management (Add, Update, Delete)
-- Patient management (Add, Update, Delete)
-- Doctor management (Add, Update, Delete)
-- Appointment scheduling
-- Billing and payment management
-- Dashboard with key performance indicators (KPIs) and analytics
+In the project directory, you can run:
 
+### `npm start`
 
-## Screenshots
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Dashboards
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-#### Admin Dashboard
+### `npm test`
 
-<img width="1440" alt="Screenshot 2023-04-01 at 7 21 03 PM" src="https://user-images.githubusercontent.com/33474725/230932009-1f98b4d4-d0fd-41ca-b91d-79eae357c2fd.png">
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-#### Doctor Dashboard
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<img width="1440" alt="Screenshot 2023-04-10 at 11 26 09 AM" src="https://user-images.githubusercontent.com/33474725/230932582-66d70e89-1d98-4cf4-b25e-87659e47681a.png">
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-#### User Management
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<img width="1440" alt="Screenshot 2023-04-10 at 11 38 41 AM" src="https://user-images.githubusercontent.com/33474725/230936115-8ad23e01-38a0-4371-bd87-a7744f900d92.png">
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-#### Appointments Page
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<img width="1439" alt="Screenshot 2023-04-10 at 11 34 00 AM" src="https://user-images.githubusercontent.com/33474725/230934185-958f66d1-d88b-40f5-a53b-df854c022975.png">
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-#### Prescriptions
-<img width="1440" alt="Screenshot 2023-04-10 at 11 41 34 AM" src="https://user-images.githubusercontent.com/33474725/230936853-3df4cb40-fc53-4224-bb3c-7476a376765c.png">
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-#### Login Page
+## Learn More
 
-<img width="1440" alt="Screenshot 2023-04-10 at 11 35 51 AM" src="https://user-images.githubusercontent.com/33474725/230934880-defc60d5-59cf-47e7-ab2c-4f343ca6f106.png">
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-#### Register Page
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-<img width="1440" alt="Screenshot 2023-04-10 at 11 37 24 AM" src="https://user-images.githubusercontent.com/33474725/230935305-87750fda-d25c-486e-99de-12e8af936795.png">
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
